@@ -1,0 +1,93 @@
+*{margin: 0;padding: 0;}
+img{border: 0px;}
+ul,li{list-style: none;}
+body{text-align: center;}
+
+#totalpage{width: 100%;height: 1407px;background-color: rgb(250, 250 250);position: relative;}
+#header{width: 100%;height: 43px;background-color: rgb(242, 242, 242);}
+#headercontent{width: 914px;height: 43px;margin-left: auto;margin-right: auto;}
+.headerc1{display: block; width: 52px;height: 43px;float: left;margin-right: 10px;}
+.headerc2{display: block; width: 114px;height: 43px;float: left;margin-right: 10px;}
+.headerc3{display: block; width: 107px;height: 43px;float: left;}
+.headerword{text-decoration: none;font-size: 13px;font-weight: 400;font-family: DidotLTPro-Roman,Arial;line-height: 43px;color: #000000;*text-align: left;}
+#country{display: block; width: 21px;height: 14px;line-height: 43px;background-image: url("images/CN.gif");float: right;margin: 15px 0 0 5px;*float: left;*position: absolute;*top: 0px;*left: 470px;}
+#headerImg{display: block;width: 307px;height: 40px;background-image: url("images/2012_gnas_14_1079145.png");float: right;margin-top: 1px;}
+
+#global{width: 944px;height: 80px; margin: 0 auto 0 auto;padding-top: 15px;*height: 100px;}
+#globalLogo{display: block;width: 268px;height: 73px;float: left;background-image: url("images/global-icons.png");background-position: -27px -124px;}
+#globalsearch{width: 420px;height: 37px;margin: 21px 0 0 290px;*position: absolute;*top: 50px;*left: -70px;*height: 40px;}
+#txtsearch{display: block;width: 369px;height: 33px;padding: 0px 10px 0 10px;float: left;border: 1px solid #ccc;border-right-style: none;*padding: 8px 10px 0 10px;}
+#searchImg{display: block;width: 38px;height: 33px;background-image: url("images/global-icons.png");background-position: -201px -78px;float: left;*float: right;*margin-left: 659px;*margin-top: -38px;*height: 48px;}
+.globalbag{display: block;width: 151px;height: 68px;float: right;cursor: pointer;padding-right: 20px;position: absolute;top: 46px;left: 964px;z-index: 100;border: 1px solid #fff;}
+.globalborderstyle{border: 1px solid #ccc;border-bottom-style: none;background-color: #fff}
+#mybag{display: block;width: 70px;height: 68px;font-size: 14px;font-weight: 400;font-family: DidotLTPro-Roman,Arial;line-height: 68px;float: right;}
+#shopLogo{display: block;width: 45px;height: 67px;background-image: url("images/global-icons.png");background-position: -160px -2px;float: right;margin-left: 5px;}
+#bagcontent{display: block;width: 325px;height: 43px;border: 1px solid #ccc;position: absolute;top:114px;left:810px;font-size: 12px;font-weight: 400;font-family: DidotLTPro-Roman,Arial;line-height: 43px;color: #000000;z-index: 10;background-color: #fff;}
+
+#globalnav{width: 100%;height: 40px;background-color: #000;}
+#globalnavcontent{width: 899px;height: 40px;margin-left: auto;margin-right: auto;}
+.gnc{width: auto;height: 40px;float: left;}
+.gnc1{width: auto;height: 40px;float: left;*padding: 0 4px 0 4px;}
+.gnc2{width: auto;height: 40px;float: left;*padding: 0 4px 0 4px;}
+.glabalrest{width:24px;height: 40px;float: left;}
+.gncword{font-size: 12px;font-weight: 700;font-family: DidotLTPro-Roman,Arial;line-height: 40px;color: #fff;text-decoration: none;}
+#globalrow{width: 900px;height: 36px;margin-left: auto;margin-right: auto;}
+#globalrow1{display: block; width: 106px;height: 36px;font-size: 13px;font-weight: 700;font-family: DidotLTPro-Roman,Arial;line-height: 36px;color: #000;text-decoration: none;float: right;}
+#globalrow2{display: block; width: 112px;height: 36px;font-size: 13px;font-weight: 400;font-family: DidotLTPro-Roman,Arial;line-height: 36px;color: #000;text-decoration: none;float: right;margin-right: 20px;margin-left: 20px;}
+#globalrow3{display: block; width: 87px;height: 33px;background-image: url("images/0528_sitewide_HP_v1_secnav_01_1094451.png");float: right;margin-top: 3px;}
+#macyshop{display: block; width: 900px;height: 497px;margin-left: auto;margin-right: auto;background-image: url("images/0930_coldWarmWeather_homepage_intl_01.gif");}
+#macyarea{display: block;width: 900px;height: 145px;margin-left: auto;margin-right: auto;}
+#macyarea1{display: block;width: 452px;height: 145px;background-image: url("images/0930_coldWarmWeather_homepage_intl_02.gif");float: left;}
+#macyarea2{display: block;width: 448px;height: 145px;background-image: url("images/0930_coldWarmWeather_homepage_intl_03.gif");float: right;}
+#macyemail{display: block;width: 900px;height: 46px;margin-left: auto;margin-right: auto;background-image: url("images/0927_superSat_homepage_intl_03.gif");}
+#macyrect{display: block;width: 900px;height: 74px;margin-left: auto;margin-right: auto;background-image: url("images/090313_kitchensale_hp_GFA_1103715.jpg");margin-top: 5px;}
+#footer{width: 100%;height: 268px;margin-top: 15px;}
+#footertop{width: 100%;height: 220px;background-color: #ebebeb;}
+#ftopcontent{width: 902px;height: 216px;margin-left: auto;margin-right: auto;}
+#ftopct{width: 902px;height: 171px;}
+#ftopct1{width: 186px;height: 148px;margin: 9px 13px 13px 0;float: left;}
+.footertitle1{display: block;width: 186px;height: 22px;float: left;*width: 130px;}
+.footerword1{font-size: 12px;font-weight: 400;font-family: DidotLTPro-Roman,Arial;line-height: 22px;color: rgb(63, 63, 63);text-decoration: none;text-align: left;}
+.footercontent1{display: block;width: 186px;height: 21px;float: left;*width: 130px;}
+.footerword2{font-size: 11px;font-weight: 400;font-family: DidotLTPro-Roman,Arial;line-height: 22px;color: rgb(63, 63, 63);text-decoration: none;text-align: left;}
+.ship{display: block;width: 52px;height: 21px;float: left;text-decoration: none;color: rgb(63, 63, 63);}
+#country2{display: block; width: 21px;height: 14px;line-height: 43px;background-image: url("images/CN.gif");margin: 5px 5px 0 5px;float: left;}
+.us{display: block;width: 67px;height: 21px;float: left;text-decoration: none;color: rgb(63, 63, 63);}
+#ftopct2{width: 164px;height: 109px;margin: 9px 13px 13px 0;float: left;}
+#ftopct3{width: 134px;height: 85px;margin: 9px 13px 13px 0;float: left;}
+#ftopct4{width: 168px;height: 91px;margin: 9px 0px 0px 0;float: left;}
+#ftopct4link{width: 168px;height: 23px;margin-top: 5px;float: left;}
+.ftopct4link1{display: block;width: 23px;height: 23px;padding-right: 5px;background-image: url("images/global-icons.png");background-position: -2px -26px;float: left;}
+.ftopct4link2{display: block;width: 23px;height: 23px;padding-right: 5px;background-image: url("images/global-icons.png");background-position: -2px -2px;float: left;}
+.ftopct4link3{display: block;width: 23px;height: 23px;padding-right: 5px;background-image: url("images/global-icons.png");background-position: -2px -94px;float: left;}
+.ftopct4link4{display: block;width: 23px;height: 23px;padding-right: 5px;background-image: url("images/global-icons.png");background-position: -2px -49px;float: left;}
+.ftopct4link5{display: block;width: 23px;height: 23px;padding-right: 5px;background-image: url("images/global-icons.png");background-position: -2px -72px;float: left;}
+#ftopct4email{width: 168px;height: 23px;margin-top: 5px;float: left;}
+.ftopct4link6{display: block;width: 24px;height: 16px;margin-right: 5px;background-image: url("images/global-icons.png");background-position: -2px -117px;float: left;margin-top: 5px;}
+.footercontent2{display: block;width: 79px;height: 21px;float: left;}
+#ftopct5{width: 207px;height: 171px;margin: 9px 0px 0px 0;float: left;}
+#ftopct5Inter{display: block;width: 209px;height: 61px;background-image: url("images/091613_BESTBRANDS_HP_V3_Eventad_1105313.gif");float: left;margin-top: 5px;}
+#ftopct5Area{display: block;width: 209px;height: 61px;background-image: url("images/MacySitewideFooterIcon_1095120.jpg");float: left;margin-top: 10px;}
+#ftopcb{width: 902px;height: 30px;margin-top: 15px;margin-left: auto;margin-right: auto;}
+#ftopcbImg{display: block;width: 124px;height: 25px;background-image: url("images/global-icons.png");background-position: -28px -2px;float: left;}
+.ftopcbcontent{display: block;width: 251px;height: 30px;float: left;margin-left: 20px;}
+#footerbottom{width: 100%;height: 44px;padding-top: 12px;}
+.fbottomword{display: block;width: 100%;height: 12px;font-size: 11px;font-weight: 400;font-family: DidotLTPro-Roman,Arial;line-height: 12px;color: #000;text-decoration: none;margin-top: 3px;}
+.fbottomword2{display: block;width: 730px;height: 12px;font-size: 11px;font-weight: 400;font-family: DidotLTPro-Roman,Arial;line-height: 12px;color: #000;text-decoration: none;margin-top: 3px;float: left;margin-left: 220px;}
+.fbottomword3{display: block;width: 174px;height: 12px;font-size: 11px;font-weight: 400;font-family: DidotLTPro-Roman,Arial;line-height: 12px;color: #000;text-decoration: none;margin-top: 3px;float: left;}
+#fbfooter{width: 600px;height: 12px;margin-left: auto;margin-right: auto;margin-top: 20px;*width:700px;*margin-left: 100px; }
+.fbottomword4{display: block;width: auto;height: 12px;font-size: 11px;font-weight: 400;font-family: DidotLTPro-Roman,Arial;line-height: 12px;color: #000;text-decoration: none;margin-top: 3px;float: left;margin-left: 15px;}
+.gncmenu1{width: 918px;height:412px;position: absolute;top: 178px;left: 225px;background-color: #ffffff;box-shadow: 3px -2px 3px #000;display: none;*width: 930px;*top: 183px;}
+.gncmenu2{width: 918px;height:412px;position: absolute;top: 178px;left: 225px;background-color: #ffffff;box-shadow: 3px -2px 3px #000;display: none;*width: 930px;*top: 183px;}
+.gncmenuitem{width: 223px;height: 412px; border-right: 1px solid #ccc;float: left;}
+.gncmenuitem1{width: 244px;height: 412px;float: left;}
+#gncitem1{width: 210px;height: 205px;margin-top: 8px;}
+.gncitemtitle1{display: block;width: 210px;height: 26px;}
+.gncitemword1{font-size: 16px;font-weight: 700;font-family: DidotLTPro-Roman,Arial;line-height: 26px;color: #000;text-decoration: none;text-align: left;}
+.gncitemword2{font-size: 14px;font-weight: 400;font-family: DidotLTPro-Roman,Arial;line-height: 26px;color: #000;text-decoration: none;text-align: left;}
+#gncitem2{width: 210px;height: 179px;margin-top: 8px;}
+#gncitem3{width: 210px;height: 231px;margin-top: 8px;margin-left: 15px;}
+#gncitem4{width: 210px;height: 169px;margin-top: 8px;margin-left: 15px;}
+#gncitem5{width: 210px;height: 281px;margin-top: 8px;margin-left: 15px;}
+#gncitem6{display: block; width: 210px;height: 26px;margin-top: 18px;margin-left: 15px;font-size: 16px;font-weight: 700;font-family: DidotLTPro-Roman,Arial;line-height: 26px;color: red;text-decoration: none;text-align: left;}
+#gncitem7{display: block;width: 225px;height: 225px;margin-top: 8px;background-image: url("images/0801_HFA_MREG_579091.jpg");margin-left: 8px;}
